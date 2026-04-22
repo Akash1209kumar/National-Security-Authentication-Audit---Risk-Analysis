@@ -7,7 +7,7 @@ The **National Security: Authentication Audit Dashboard** is a high-stakes foren
 
 ### **Tech Stack**
 * 🐍 **Python (Pandas/NumPy)** – Engineered a **Synthetic Data Engine** to generate 1 Lakh rows of high-entropy logs, intentionally injecting "Insider Fraud" signatures and hardware failure clusters.
-* 💾 **SQL Server (T-SQL)** – Architected a multi-stage **ETL Pipeline** using CTEs and Window Functions. Established a **Forensic Gold Layer** by performing "Temporal Healing" and regional standardization.
+* 💾 **SQL Server (SQL)** – Architected a multi-stage **ETL Pipeline** using CTEs and Window Functions. Established a **Forensic Gold Layer** by performing "Temporal Healing" and regional standardization.
 * 📊 **Power BI Desktop** – Core strategic visualization platform for interactive risk analysis and regional auditing.
 * 🧠 **DAX (Data Analysis Expressions)** – Developed advanced measures for **Statistical Outlier Detection ($3\sigma$)**, **Fraud Rates**, and **System Risk Scores**.
 
