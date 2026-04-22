@@ -53,11 +53,13 @@ To ensure objective auditing, I applied the **Empirical Rule** to define a mathe
 
 #### **Phase 1: Synthetic Data Generation (Python)**
 Generated 100,000 rows of high-entropy logs using a custom Python engine to simulate real-world security breaches.
+
 ![python dataset generation](National_Security_Authentication_data_python_Snapshot.png)
 
 #### **Phase 2: Forensic ETL & 3-Sigma Logic (SQL)**
 Engineered a transformation pipeline to establish a "Gold Layer," utilizing statistical guardrails to isolate high-priority outliers.
 
+![sql snippet](National_Security_Authentication_Audit_SQl_Snapshot.png)
 
 #### **Phase 3: Strategic Forensic Dashboard (Power BI)**
 The final interactive interface converting raw log data into actionable policy recommendations.
