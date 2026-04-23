@@ -36,7 +36,7 @@ To ensure objective auditing, I applied the **Empirical Rule** to define a mathe
 
 
 
-[Image of 3-Sigma Standard Deviation Bell Curve]
+
 
 
 ---
